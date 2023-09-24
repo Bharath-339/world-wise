@@ -68,11 +68,6 @@ input:focus {
   border-radius: 5px;
 }
 
-.logo {
-  width: 150px;
-  height: auto;
-}
-
 /*
 "importCSSModule": {
     "prefix": "csm",
